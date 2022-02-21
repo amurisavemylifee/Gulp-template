@@ -5,7 +5,7 @@
 	"main": "index.js",
 	"dependencies": {
 		"gulp-rename": "^2.0.0",
-		"gulp-shorthand": "^1.1.0",
+		"gulp-shorthand": "^1.1.0"
 	},
 	"devDependencies": {
 		"@babel/core": "^7.17.5",
@@ -22,7 +22,7 @@
 		"gulp-rigger": "^0.5.8",
 		"gulp-sass": "^4.1.0",
 		"gulp-sourcemaps": "^3.0.0",
-		"gulp-uglify-es": "^2.0.0",
+		"gulp-uglify-es": "^2.0.0"
 	},
 	"author": "Amuri",
 	"license": "ISC"
